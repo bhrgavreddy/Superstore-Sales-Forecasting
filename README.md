@@ -1,6 +1,13 @@
-Superstore Sales Forecasting 
-• Analyzed historical sales data to identify key trends, seasonality, and patterns to inform forecasting strategies
-• Developed a data preprocessing pipeline to clean, transform, and prepare data for time series modeling
-• Engineered a time series forecasting model to accurately predict future sales and drive business planning
-• Evaluated model accuracy through rigorous residual analysis to ensure the reliability of sales predictions
-• Translated complex data insights into actionable recommendations for inventory and strategic decision-making
+# 🛒 Superstore Sales Forecasting
+
+This project applies **time series forecasting** techniques to predict future sales based on historical Superstore data. The goal is to support better inventory planning, demand forecasting, and strategic decision-making.
+
+---
+
+## 📊 Key Features
+
+- 📈 Analyzed historical sales trends, seasonality, and demand patterns
+- 🧹 Built a robust data preprocessing pipeline for time series readiness
+- 🔮 Developed a time series forecasting model to predict future sales
+- ✅ Evaluated forecasting accuracy using residual and error analysis
+- 📌 Generated actionable insights for inventory and business strategy
